@@ -88,9 +88,12 @@ Dana Linia musi zaczynać się przynajmniej od _4_ spacji.
 
 ## link
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+Mój profil [Github](https://github.com/Tomaszkapuscinski1989).
 
-    My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+    Mój profil [Github](https://github.com/Tomaszkapuscinski1989).
 
+Mój profil **[Github](https://github.com/Tomaszkapuscinski1989).**
+
+    Mój profil **[Github](https://github.com/Tomaszkapuscinski1989).**
     
 ****
