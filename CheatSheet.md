@@ -51,5 +51,46 @@ _NAGATORO_
     > 
     > Nagatoro  
 
+> Nagatoro
+> 
+>> Nagatoro
 
+    > Nagatoro
+    > 
+    >> Nagatoro 
+
+> ### Nagatoro
+> 
+> __NAGATORO__
+
+    > ### Nagatoro
+    > 
+    > __Nagatoro__  
+
+****
+
+## Linia pozioma
+
+****
+
+    ****
+
+****
+
+## Blok kodu
+
+    Nagatoro
+
+Dana Linia musi zaczynać się przynajmniej od _4_ spacji.
+
+****
+
+
+## link
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+    My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+    
 ****
